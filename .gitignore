@@ -168,4 +168,8 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
+### Jetbrains Webstorm ###
+# Metadata files creared by Jetbrains Pycharm
+.idea/
+
 # End of https://www.gitignore.io/api/r,macos,python,jekyll
